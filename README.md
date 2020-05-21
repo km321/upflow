@@ -1,1 +1,1 @@
-# UpFlow Media Site Powered by Gatscy and Netlify
+# UpFlow Media Site Powered by Gatsby and Netlify
